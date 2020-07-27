@@ -1,0 +1,8 @@
+div{
+    padding: 10%;
+    background-color: coral;
+}
+h1, p{
+    color: darkblue;
+    text-decoration: double red;
+}
